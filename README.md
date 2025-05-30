@@ -32,7 +32,3 @@
 ### 🔒 Security
 - **설명**: 보안 관련 수정
 - **예시**:`🔒 security: fix XSS vulnerability`
-
-### 🚀 Chore
-- **설명**: 기타 잡다한 작업이나 설정 변경
-- **예시**:`🚀 chore: upgrade npm packages`
