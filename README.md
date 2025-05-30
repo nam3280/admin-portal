@@ -1,34 +1,38 @@
-# Final Project 어드민 페이지
+# wannaV 어드민 페이지
 
-## Git commit message convention
-### 🎉 Init (Initialization)
-- **설명**: 프로젝트의 초기 설정이나 기본적인 구조 설계
-- **예시**: `🎉 Init: set up initial project structure`
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/410d78b9-1221-4577-a1d1-c8e50a8e1817" width="600" />
+</p>
 
-### ✨ Feat (Feature)
-- **설명**: 새로운 기능을 추가하는 커밋
-- **예시**:`✨ Feat: add user login functionality`
+## 회원 관리
+### (1) 회원 조회
+  <img src="https://github.com/user-attachments/assets/cc218ad1-a59c-46d1-8c81-ac5f045fdf05">
 
-### 🐛 Fix (Bug Fix)
-- **설명**: 버그를 수정하는 커밋
-- **예시**:`🐛 Fix: correct calculation error in tax module`
+### (2) 회원 상세 조회  
+  <img src="https://github.com/user-attachments/assets/4692d810-6127-4105-adba-c0fb8366e0ed">
 
-### 🎨 Style
-- **설명**: 기능적 변경이 없으며, 코드의 포맷이나 스타일, 주석 등을 수정
-- **예시**:`🎨 Style: format code according to ESLint rules`
 
-### ♻️ Refactor
-- **설명**: 코드의 구조를 변경하지만 기능은 변경하지 않는 커밋
-- **예시**:`♻️ Refactor: reorganize project structure`
+## 이벤트 관리  
 
-### ✅ Test
-- **설명**: 테스트 관련 변경 (테스트 추가, 수정, 제거 등)
-- **예시**:`✅ Test: add unit tests for new user service`
+### (1) 이벤트 조회
+  <img src="https://github.com/user-attachments/assets/41c47732-6f0c-4ff6-a895-f50203147212">
 
-### 📝 Docs (Documentation)
-- **설명**: 문서화 관련 변경
-- **예시**:`📝 Docs: update README with setup instructions`
+### (2) 이벤트 상세 조회
+<img src="https://github.com/user-attachments/assets/fb8e1ad8-6350-4d45-912a-3eef905143e8">
 
-### 🔒 Security
-- **설명**: 보안 관련 수정
-- **예시**:`🔒 security: fix XSS vulnerability`
+### (3) 이벤트 등록
+  <img src="https://github.com/user-attachments/assets/b89f8f72-f806-4fd5-9d71-9704b48a1d17">
+
+
+## 쿠폰 관리
+
+### (1) 쿠폰 조회
+  <img src="https://github.com/user-attachments/assets/2c15e007-bbc8-4a78-a3cc-1de0da995ef7">
+
+
+### (2) 쿠폰 상세 조회
+  <img src="https://github.com/user-attachments/assets/beac6779-a0eb-4445-bbe2-a67cf283fe1b">
+
+
+### (3) 쿠폰 등록
+<img src="https://github.com/user-attachments/assets/c4c351d7-0679-4c4b-8601-4f7ebdc9dfb9">
